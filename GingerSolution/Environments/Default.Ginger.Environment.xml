@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="c050c40f-5e11-4bab-bf20-01b04f32e97b" ItemType="ProjEnvironment" CreatedBy="dp" Created="202006161413" GingerVersion="3.5.0.0" Version="1" LastUpdateBy="dp" LastUpdate="202006161413" />
+<ProjEnvironment Guid="c050c40f-5e11-4bab-bf20-01b04f32e97b" Name="Default" ParentGuid="00000000-0000-0000-0000-000000000000">
+<Applications>
+<EnvApplication Active="True" Guid="d4e3e62d-fe7f-4999-af1f-6ac44dea5add" Name="Facebook" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</Applications>
+</ProjEnvironment></GingerRepositoryItem>

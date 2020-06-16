@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="d806e798-5d21-4f6c-b86d-0af2ba6a288d" ItemType="RunSetConfig" CreatedBy="dp" Created="202006161417" GingerVersion="3.5.0.0" Version="3" LastUpdateBy="dp" LastUpdate="202006161418" />
+<RunSetConfig Guid="d806e798-5d21-4f6c-b86d-0af2ba6a288d" Name="fbLogin" ParentGuid="00000000-0000-0000-0000-000000000000">
+<GingerRunners>
+<GingerRunner Guid="4cde9178-ef77-4a31-a473-aba644339ad7" Name="Runner 1" ParentGuid="00000000-0000-0000-0000-000000000000" RunOption="ContinueToRunall">
+<ApplicationAgents>
+<ApplicationAgent AgentID="4cbe2124-958a-4f5d-82c3-53de73d80be2" AgentName="Facebook - Agent 1" AppID="156834a3-aabc-44bf-a7cb-853ca8736328" AppName="Facebook" Guid="f1893bf4-3111-41fd-a1cd-4afce81637a2" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ApplicationAgents>
+
+<BusinessFlowsRunList>
+<BusinessFlowRun BusinessFlowGuid="1d17eb9f-f7c7-42df-a87e-e517372b9af1" BusinessFlowInstanceGuid="69761439-f395-46d7-a820-63f47d3d155e" BusinessFlowIsActive="True" BusinessFlowName="Login to facebook" Guid="afd3bde2-0160-406e-a334-26ae410db754" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</BusinessFlowsRunList>
+</GingerRunner>
+</GingerRunners>
+</RunSetConfig></GingerRepositoryItem>

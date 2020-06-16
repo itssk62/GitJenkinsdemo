@@ -1,0 +1,1 @@
+{"Seq":1,"Name":"Runner 1","GUID":"4cde9178-ef77-4a31-a473-aba644339ad7","EnvironmentName":"Default","StartTimeStamp":"2020-06-16T14:18:01.2846205Z","EndTimeStamp":"2020-06-16T14:18:37.5037674Z","Elapsed":36.206,"ApplicationAgentsMappingList":["Facebook - Agent 1_:_Facebook"]}
